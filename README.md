@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, JavaScript, SQL  
-- **Frameworks & Tools:** Flask, Pandas, Scikit-learn, Power BI, Git  
+- **Languages:** Python, JavaScript, SQL, Java, R, C, C++
+- **Frameworks & Tools:** Spring-Boot, Django, Pandas, Numpy, Scikit-learn, Matplotlib, TensorFlow, React, Power BI, Git  
 - **Concepts:** Data Analysis, Machine Learning, Web Development, APIs, Data Visualization
 
 ## 📫 Let's Connect!
